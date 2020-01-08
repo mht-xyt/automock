@@ -3,7 +3,6 @@
 轻量级全自动mock
 
 
-
 只需要一个jar包，全自动完成java的mock操作，使用极其简单
 
 
@@ -230,3 +229,4 @@ public class TestJobServiceImplTest {
 
 可直接运行，有自定义mock操作可直接修改即可。使用无比方便，一键批量生成。
 
+issues : https://issues.sonatype.org/browse/OSSRH-54357
