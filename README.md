@@ -228,5 +228,3 @@ public class TestJobServiceImplTest {
 
 
 可直接运行，有自定义mock操作可直接修改即可。使用无比方便，一键批量生成。
-
-issues : https://issues.sonatype.org/browse/OSSRH-54357
