@@ -4,7 +4,14 @@
 
 
 只需要一个jar包，全自动完成java的mock操作，使用极其简单
+<!-- https://mvnrepository.com/artifact/com.github.mht-xyt/automock -->
+<dependency>
+    <groupId>com.github.mht-xyt</groupId>
+    <artifactId>automock</artifactId>
+    <version>1.0</version>
+</dependency>
 
+maven:https://mvnrepository.com/artifact/com.github.mht-xyt/automock/1.0
 
 
 只需要一行代码直接调用
